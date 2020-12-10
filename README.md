@@ -23,6 +23,18 @@ There is a statistically significant yet minor difference between perception of 
 ## ProjectProposal.pdf
 Our project proposal before our study began. Shows our thinking and motivation for pursuing the topic of choice.
 
+## SurveyVideos Folder
+This folder includes the two videos used for our survey.
+QSS Vid A is our control, and QSS Vid B is the experiment (wealthier-appearing counterpart video).
+
+## SurveyData Folder
+The data from our Qualtrics Surveys in CSV form. Includes the following:
+- DataSetA.csv: the uncleaned data from Survey A.
+- DataSetB.csv: the uncleaned data from Survey B
+- ACleaned.csv: cleaned data from DataSetA.csv used for our R models and significance test calculations.
+- BCleaned.csv: cleaned data from DataSetB.csv used for our R models and significance test calculations.
+Note: the cleaned data removed erroneous / faulty data entries, including unfinished survey entries.
+
 ## ResearchPaper.pdf
 The research paper, made with R, is broken up into 4 components:
 1. Introduction
