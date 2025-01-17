@@ -43,4 +43,4 @@ The research paper, made with R, is broken up into 4 components:
 4. Conclusions: Analysis of Results and Potential Confounds
 
 ## Final Notes
-For any questions regarding the research, please email angela.zhang.23@dartmouth.edu.
+For any questions regarding the research, please email zz2921@columbia.edu.
